@@ -70,6 +70,8 @@ h3{font-size:clamp(1.04rem,1.52vw,1.55rem);letter-spacing:-.025em}
 .academic-year{font-size:.68rem;font-weight:700;color:var(--muted);letter-spacing:.05em}
 .team-names{display:flex;flex-direction:column;gap:6px;margin-top:8px}
 .team-member{font-size:.82rem;font-weight:600;color:var(--muted);letter-spacing:.02em}
+.prof-name{margin-top:12px;font-size:.78rem;color:var(--muted);display:flex;align-items:center;gap:8px}
+.prof-label{font-size:.72rem;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:var(--accent2)}
 .hero-art{position:relative;min-height:min(40vh,350px);display:grid;place-items:center}
 .orbit{position:absolute;border:1px dashed var(--line);border-radius:50%;width:min(35vw,390px);aspect-ratio:1;animation:rotate 38s linear infinite}
 .orbit.second{width:min(26vw,288px);animation-direction:reverse;animation-duration:30s}
